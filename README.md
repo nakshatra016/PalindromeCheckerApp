@@ -22,3 +22,9 @@
 --Reversed String is compared with the input string. 
 
 -- Result returns true else false.
+
+## USE CASE 4: CHARACTER ARRAY BASED PALINDROME
+
+-- Input text is converted into character array.
+
+-- Compares characters from the beginning and end moving towards the center.
