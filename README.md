@@ -28,3 +28,13 @@
 -- Input text is converted into character array.
 
 -- Compares characters from the beginning and end moving towards the center.
+
+## USE CASE 5: STACK BASED PALINDROME CHECK
+
+-- Each character of input text is pushed into stack.
+
+-- Pop each character from the stack in reverse order.
+
+-- Compare with original input text.
+
+-- Return true if equal, else false.
