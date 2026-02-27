@@ -12,3 +12,13 @@
 --First half compared to the Second half for palindrome check.
 
 -- Boolean result returns true, if not, returns false.
+
+## USE CASE 3: STRING REVERSE PALINDROME
+
+
+
+-- Input text traversed from the end.
+
+--Reversed String is compared with the input string. 
+
+-- Result returns true else false.
