@@ -55,11 +55,22 @@
 
 - If all characters match during comparison, the string is confirmed as a palindrome.
 
-## Use Case 8 – LINKED LIST BASED PALINDROME CHECK
+## USE CASE 8 – LINKED LIST BASED PALINDROME CHECK
 
 - Characters of the string are inserted into the LinkedList.
 
 - Elements are compared by removing characters from both ends.
 
 - If all characters match, the string is confirmed as a palindrome.
+
+## USE CASE 9 – RECURSIVE PALINDROME CHECK
+
+- Implemented palindrome validation using **recursion**.
+
+- Characters are compared from the **outermost positions** of the string.
+
+- The recursive method checks whether the first and last characters match, then calls itself for the remaining substring.
+
+- The process continues until all characters match or a mismatch is found.
+
 
