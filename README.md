@@ -1,58 +1,65 @@
 # Palindrome Checker App
 
 ## USE CASE 1: WELCOME MESSAGE
--- Created a class to display welcome message.
+- Created a class to display welcome message.
 
--- UC1 commit in UC1-WelcomePage branch.
+- UC1 commit in UC1-WelcomePage branch.
 
 ## USE CASE 2: HARDCODE PALINDROME
 
--- Input text divided into half.
+- Input text divided into half.
 
---First half compared to the Second half for palindrome check.
+- First half compared to the Second half for palindrome check.
 
--- Boolean result returns true, if not, returns false.
+- Boolean result returns true, if not, returns false.
 
 ## USE CASE 3: STRING REVERSE PALINDROME
 
+- Input text traversed from the end.
 
+- Reversed String is compared with the input string. 
 
--- Input text traversed from the end.
-
---Reversed String is compared with the input string. 
-
--- Result returns true else false.
+- Result returns true else false.
 
 ## USE CASE 4: CHARACTER ARRAY BASED PALINDROME
 
--- Input text is converted into character array.
+- Input text is converted into character array.
 
--- Compares characters from the beginning and end moving towards the center.
+- Compares characters from the beginning and end moving towards the center.
 
 ## USE CASE 5: STACK BASED PALINDROME CHECK
 
--- Each character of input text is pushed into stack.
+- Each character of input text is pushed into stack.
 
--- Pop each character from the stack in reverse order.
+- Pop each character from the stack in reverse order.
 
--- Compare with original input text.
+- Compare with original input text.
 
--- Return true if equal, else false.
+- Return true if equal, else false.
 
 ## USE CASE 6: QUEUE AND STACK PALINDROME CHECK
 
--- Enter array into queue and stack
+- Enter array into queue and stack
 
--- Remove element from queue in FIFO
+- Remove element from queue in FIFO
 
--- Pop element from stack in LIFO
+- Pop element from stack in LIFO
 
---Compare both and if true, palindrome, else false
+-Compare both and if true, palindrome, else false
 
 ## USE CASE 7:DEQUE-BASED OPTIMIZED PALINDROME CHECK
 
---Characters of the input string are inserted into the deque.
+- Characters of the input string are inserted into the deque.
 
---Elements are compared by removing characters from both ends
+- Elements are compared by removing characters from both ends
 
---If all characters match during comparison, the string is confirmed as a palindrome.
+- If all characters match during comparison, the string is confirmed as a palindrome.
+
+## Use Case 8 – LINKED LIST BASED PALINDROME CHECK
+
+- Characters of the string are inserted into the LinkedList.
+
+- Elements are compared by removing characters from both ends.
+
+- If all characters match, the string is confirmed as a palindrome.
+
