@@ -38,3 +38,13 @@
 -- Compare with original input text.
 
 -- Return true if equal, else false.
+
+## USE CASE 6: QUEUE AND STACK PALINDROME CHECK
+
+-- Enter array into queue and stack
+
+-- Remove element from queue in FIFO
+
+-- Pop element from stack in LIFO
+
+--Compare both and if true, palindrome, else false
