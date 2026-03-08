@@ -73,4 +73,15 @@
 
 - The process continues until all characters match or a mismatch is found.
 
+## Use Case 10 – Normalized Palindrome Validation
+
+-Implemented palindrome validation after normalizing the input string.
+-
+- Normalization removes spaces and special characters.
+
+- All characters are converted to lowercase before comparison.
+
+- Characters are then compared symmetrically from both ends of the string.
+
+- This allows phrases with spaces and punctuation to be correctly checked as palindromes.
 
