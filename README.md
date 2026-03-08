@@ -48,3 +48,11 @@
 -- Pop element from stack in LIFO
 
 --Compare both and if true, palindrome, else false
+
+## USE CASE 7:DEQUE-BASED OPTIMIZED PALINDROME CHECK
+
+--Characters of the input string are inserted into the deque.
+
+--Elements are compared by removing characters from both ends
+
+--If all characters match during comparison, the string is confirmed as a palindrome.
