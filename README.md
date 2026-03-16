@@ -95,3 +95,17 @@
 
 - This approach improves code organization, readability, and modular design.
 
+## Use Case 12 – Strategy Pattern for Palindrome Algorithms
+
+- Implemented palindrome validation using the **Strategy Design Pattern**.
+
+- A common `PalindromeStrategy` interface defines the contract for palindrome algorithms.
+
+- A `StackStrategy` class implements this interface using a stack-based approach.
+
+- The main application dynamically selects the strategy at runtime.
+
+- This design allows different palindrome algorithms to be added easily without modifying the main application.
+
+Input: level  
+Output: Is Palindrome? : true
