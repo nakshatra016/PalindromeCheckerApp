@@ -107,5 +107,13 @@
 
 - This design allows different palindrome algorithms to be added easily without modifying the main application.
 
-Input: level  
-Output: Is Palindrome? : true
+## Use Case 13 – Performance Comparison
+
+- Implemented execution time measurement for palindrome validation.
+
+- The application records the start time and end time using System.nanoTime().
+
+- The total execution duration is calculated and displayed.
+
+- This demonstrates basic benchmarking of algorithm performance.
+
